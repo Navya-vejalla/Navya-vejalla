@@ -14,6 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://Navya-vejalla.github.io/](https://Navya-Vejalla.github.io/)
 
+- Check out https://navyavejalla.netlify.app/
+
 - 💬 Ask me about **SpringBoot, Microservices, Algorithms and DataStructures**
 
 - 📫 How to reach me **navyavejalla@gmail.com**
